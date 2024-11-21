@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hi My name is TAEWOO
-subtitle: I am attending Pukyong University. major : Computer Engineering
+title: Hi
+subtitle: I am attending Pukyong University. major -Computer Engineering
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
