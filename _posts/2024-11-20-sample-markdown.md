@@ -32,7 +32,7 @@ Here's a table:
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-How about a yummy crepe?
+This is our university mascot?
 
 ![char](https://www.pknu.ac.kr/upload/raonkeditordata/2022/01/28/20220128_130925576_31262.png)
 
