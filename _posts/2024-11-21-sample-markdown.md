@@ -1,13 +1,13 @@
 ---
 layout: post
-title: My name is TAEWOO
+title: My name is TAEWOO HA
 subtitle: I am attending Pukyong University. major -Computer Engineering
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: TAEWOO HA
 ---
 
 {: .box-success}
