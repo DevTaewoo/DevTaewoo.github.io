@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LEE SEO BEOM BOO
-subtitle: 료이키텐카이
+title: My name is TAEWOO HA
+subtitle: I am attending Pukyong University. major : Computer Engineering(2024 ~ )
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
