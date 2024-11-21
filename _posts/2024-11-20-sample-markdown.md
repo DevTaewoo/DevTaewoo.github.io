@@ -34,7 +34,7 @@ When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they 
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+!https://www.pknu.ac.kr/upload/raonkeditordata/2022/01/28/20220128_130925576_31262.png
 
 It can also be centered!
 
