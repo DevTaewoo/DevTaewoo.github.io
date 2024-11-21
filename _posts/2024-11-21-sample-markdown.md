@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: TAEWOO HA
+author: Bill Smith
 ---
 
 {: .box-success}
